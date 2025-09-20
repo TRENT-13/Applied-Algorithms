@@ -13,8 +13,20 @@ This repository contains various algorithms and data structures implemented in J
 3. **PointSET**:
    - Implements a set of points in a 2D plane using a binary search tree (BST). It supports efficient range searching and nearest neighbor queries. The set is compared to a KdTree-based implementation, providing a simpler but less optimized approach.
 
+
+https://github.com/user-attachments/assets/ef161f12-c02d-4dae-9c98-eeb4c3f29436
+
+
 4. **Kd Tree**:
    - An efficient implementation of a 2D tree structure (KdTree) for organizing points in a plane. This structure supports efficient range searches and nearest neighbor searches compared to the PointSET approach.
+
+
+https://github.com/user-attachments/assets/7e5e051e-b6d1-4d4a-98d7-f459f4d26636
+
+
+
+https://github.com/user-attachments/assets/52ded4b1-d275-4a26-8e36-4c9497f5e127
+
 
 5. **Collinear**:
    - This project finds sets of collinear points in a 2D plane using a sorting-based approach. The implementation identifies all lines passing through 4 or more points using different algorithms, like brute force and sorting.
